@@ -17,6 +17,15 @@
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+  padding: 0px 10px;
 }
